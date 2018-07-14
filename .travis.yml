@@ -6,4 +6,5 @@ before_install:
 before_script:
   - nuget restore ./SimpleConsoleApp/SimpleConsoleApp.sln
 after_script:
-- nunit-console ./SimpleConsoleAppTests/SimpleConsoleAppTests.dll
+- nunit-console ./Simple-Console-App/SimpleConsoleAppTests/bin/Debug/SimpleConsoleAppTests.dll
+
