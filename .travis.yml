@@ -1,6 +1,6 @@
 language: csharp
 script:
-  - xbuild /p:Configuration=Debug ./SimpleConsoleApp/SimpleConsoleApp.sln
+  - xbuild /p:Configuration=Debug ./SimpleConsoleApp/SimpleConsoleApp.sln 
 before_install:
   - sudo apt-get install nunit-console
 before_script:
