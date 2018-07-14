@@ -21,7 +21,7 @@ namespace SimpleConsoleAppTests
         {
             SimpleClass sup = new SimpleClass();
 
-            string result = sup.Concat("Hello", "World");
+            string result = sup.Concat("Jack", "World");
 
             StringAssert.Contains(result, "Hello World");
         }
