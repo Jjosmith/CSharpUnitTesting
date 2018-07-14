@@ -1,0 +1,7 @@
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\SimpleConsoleApp.exe.config
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\SimpleConsoleApp.exe
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\SimpleConsoleApp.pdb
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\SimpleConsoleApp.csprojAssemblyReference.cache
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\SimpleConsoleApp.exe
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\SimpleConsoleApp.pdb

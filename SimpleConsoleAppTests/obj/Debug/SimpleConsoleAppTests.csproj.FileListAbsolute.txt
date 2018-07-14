@@ -1,0 +1,13 @@
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\SimpleConsoleAppTests.dll
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\SimpleConsoleAppTests.pdb
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\nunit.framework.dll
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\SimpleConsoleApp.exe
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\SimpleConsoleApp.pdb
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\SimpleConsoleApp.exe.config
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\nunit.framework.pdb
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\bin\Debug\nunit.framework.xml
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\obj\Debug\SimpleConsoleAppTests.csprojAssemblyReference.cache
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\obj\Debug\SimpleConsoleAppTests.csproj.CoreCompileInputs.cache
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\obj\Debug\SimpleConsoleAppTests.csproj.CopyComplete
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\obj\Debug\SimpleConsoleAppTests.dll
+C:\Users\jjosm\OneDrive\Desktop\SimpleConsoleApp\SimpleConsoleAppTests\obj\Debug\SimpleConsoleAppTests.pdb
