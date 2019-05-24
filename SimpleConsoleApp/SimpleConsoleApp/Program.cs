@@ -14,6 +14,9 @@ namespace SimpleConsoleApp
             Console.ReadLine();
 
             Simple.GetUsersIntValue();
+
+            Console.WriteLine("Testing SSH upload");
+            Console.ReadLine();
         }
     }
 }
